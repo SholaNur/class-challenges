@@ -8,3 +8,9 @@ function countLength(str) {
   return str.length;
 }
 countLength("Happy day for you! Yay!");
+
+// 3. Task
+function toUpperCase(str) {
+  return str.toUpperCase();
+}
+toUpperCase("seattle");
